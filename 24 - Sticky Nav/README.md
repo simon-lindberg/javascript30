@@ -1,0 +1,1 @@
+Making a sticky nav using vanilla JavaScript!
