@@ -1,0 +1,1 @@
+We build a pretty nifty image gallery using Flexbox, CSS transitions and a sprinkle of JS to get things interactive. 
